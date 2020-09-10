@@ -18,8 +18,7 @@
 <center>发布订阅模型</center>
 
 <center class="half">
-    <img src="https://github.com/Novak666/MQTT/blob/master/images/%E8%BF%9E%E6%8E%A5EMQ.jpg" width = "250" height = ""/>
-    <img src="https://github.com/Novak666/MQTT/blob/master/images/APP%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA%E5%9B%BE.jpg" width = "250" height = ""/>
+    <img src="https://github.com/Novak666/MQTT/blob/master/images/%E8%BF%9E%E6%8E%A5EMQ.jpg" width = "250" height = ""/><img src="https://github.com/Novak666/MQTT/blob/master/images/APP%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA%E5%9B%BE.jpg" width = "250" height = ""/>
 </center>
 <center>连接EMQ</center><center>APP功能展示图</center>
 
